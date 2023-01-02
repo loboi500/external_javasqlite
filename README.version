@@ -1,4 +1,3 @@
-URL: http://www.ch-werner.de/javasqlite/javasqlite-20100727.tar.gz
-Version: 20100727
-BugComponent: 24949
-AllAdvisories: yes
+version https://git-lfs.github.com/spec/v1
+oid sha256:79dc689dc168cd14a26db13ec12874f13d78350d3508dfd18ca2bdca74ea7136
+size 124
